@@ -1,2 +1,2 @@
 # hello
-"My second repository"
+"My second repository" for testing with git commands
